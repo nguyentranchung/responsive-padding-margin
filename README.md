@@ -17,7 +17,9 @@ Padding tương tự: pd, pdt, pdr, pdb, pdl
 Có các giá trị:
 0 - 5 - 10 - 15 - 20 - 25 - 30 - 35 - 40 - 45 - 50
 
-Sử dụng như column trong bootstrap
+Sử dụng như column trong bootstrap:
+```
 <div class="mr-xs-5 mr-sm-10 mr-md-20 mr-lg-30">
   //---
 </div>
+```
